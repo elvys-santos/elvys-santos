@@ -1,6 +1,6 @@
  ### Olá eu sou o Elvys Henrique dos Santos! 😀
 ### Sou um profissional em transição de carreira, onde atuei durante 23 anos na área da saúde, estou em busca de novos horizontes nas áreas de tecnologia.
-### Estou cursando a graduação tecnológica em Analise e Desenvolvimento de sistemas
+### Estou cursando  graduação tecnológica em Analise e Desenvolvimento de sistemas
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
