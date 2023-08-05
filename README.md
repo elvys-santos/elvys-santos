@@ -3,8 +3,7 @@
 ### Estou cursando  graduação tecnológica em Analise e Desenvolvimento de sistemas
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvys-henrique-dos-santos-9b7a99241/)
 
 ![elvys-santos GitHub stats](https://github-readme-stats.vercel.app/api?username=elvys-santos&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvys-santos)](https://github.com/anuraghazra/github-readme-stats)
