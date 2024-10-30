@@ -1,6 +1,5 @@
  ### Olá eu sou o Elvys Henrique dos Santos! 😀
-### Sou um profissional em transição de carreira, onde atuei durante 23 anos na área da saúde, estou em busca de novos horizontes nas áreas de tecnologia.
-### Estou cursando  graduação tecnológica em Analise e Desenvolvimento de sistemas
+### Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP) e estou em transição de carreira, buscando oportunidades na área de TI com foco em Cloud, FinOps, DevOps, Desenvolvimento de Sistemas ou Gestão de Projetos, como Analista de Projetos.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvys-henrique-dos-santos-9b7a99241/)
