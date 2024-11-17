@@ -1,5 +1,7 @@
  ### Olá eu sou o Elvys Henrique dos Santos! 😀
-### Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP) e estou em transição de carreira, buscando oportunidades na área de TI com foco em Cloud, FinOps, DevOps, Desenvolvimento de Sistemas ou Gestão de Projetos, como Analista de Projetos.
+###Com uma formação sólida em Análise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP), estou em uma emocionante transição de carreira, com foco em oportunidades desafiadoras na área de TI. Minha paixão é mergulhar no universo da Cloud, FinOps, DevOps, Desenvolvimento de Sistemas e Gestão de Projetos como Analista de Projetos, onde posso aplicar minhas habilidades estratégicas para impulsionar a migração para a nuvem. 
+Meu objetivo? 
+Reduzir custos e otimizar performance com soluções tecnológicas de ponta.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvys-henrique-dos-santos-9b7a99241/)
