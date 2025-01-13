@@ -1,5 +1,5 @@
  ### Olá eu sou o Elvys Henrique dos Santos! 😀
-### Com uma formação sólida em Análise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP) e Cursando Pós-Graduação em Computação Forense e Investigação Digital, estou em uma emocionante transição de carreira, com foco em oportunidades desafiadoras na área de TI. Minha paixão é mergulhar no universo da Cloud, FinOps, DevOps, Desenvolvimento de Sistemas e Gestão de Projetos como Analista de Projetos, onde posso aplicar minhas habilidades estratégicas para impulsionar a migração para a nuvem. 
+### Com uma formação sólida em Análise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP) e Cursando Pós-Graduação em Computação Forense e Investigação Digital, estou em uma emocionante transição de carreira, com foco em oportunidades desafiadoras na área de TI. Minha paixão é mergulhar no universo da Cloud, FinOps, DevOps, Desenvolvimento de Sistemas, Gestão de Projetos como Analista de Projetos e Cibersegurança ou Computação Forense, onde posso aplicar minhas habilidades estratégicas para impulsionar a migração para a nuvem. 
 Meu objetivo? 
 Reduzir custos e otimizar performance com soluções tecnológicas de ponta.
 
